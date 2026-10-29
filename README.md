@@ -19,7 +19,7 @@
 
 <img align="left" alt="RyanFitz123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-LinkedIn: https://www.linkedin.com/in/ryan-fitzgerald-69329227a/
+LinkedIn: https://www.linkedin.com/in/ryanfitz123/
 
 <!--
 Here are some ideas to get you started:
