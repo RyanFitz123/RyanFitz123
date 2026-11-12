@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Analytics, Jupyter Notebook</b>
-  - [Big Data Analysis on Financial Data](https://github.com/RyanFitz123/Data-Analytics-Final)
+- <b>Data Analytics</b>
+  - [Big Data Analysis on Financial Data (Jupyter Notebook)](https://github.com/RyanFitz123/Data-Analytics-Final)
+  - [Data Analysis Research for Southeast Missouri State University](https://github.com/MelWeh/Data-Analysis-Research)
 - <b>Python</b>
   - [Turn-Based Fighting Game Displayed Through Text](https://github.com/RyanFitz123/Intro-to-Computer-Science-Final)
 - <b>Java</b>
